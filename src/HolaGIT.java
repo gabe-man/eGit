@@ -5,6 +5,8 @@ public class HolaGIT {
 		System.out.println("Hola mundo");
 		
 		String nombre="Gabriel";
+		
+		System.out.println(nombre);
 	}
 
 }
