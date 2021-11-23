@@ -6,7 +6,7 @@ public class HolaGIT {
 		
 		String nombre="Gabriel";
 		
-		System.out.println(nombre);
+		System.out.println("Hola, "+nombre);
 	}
 
 }
